@@ -1,0 +1,6 @@
+What:           /sys/bus/platform/devices/fsi-master/scan
+KernelVersion:  4.9
+Contact:        cbostic@us.ibm.com
+Description:
+                Initiates a FSI master scan for all connected
+                slave devices on its links.
